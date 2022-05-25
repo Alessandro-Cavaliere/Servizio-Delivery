@@ -4,3 +4,4 @@ This project is based on the management and organization of catering services th
 All restaurants, which can be entrusted with orders, can make one or more delivery services available. When the latter are entrusted to external companies, the customer is allowed to evaluate the rider who delivered the order; if the delivery of orders is entrusted to the restaurant itself, it must make its employees available for the actual delivery.
 Given the current situation, this application also allows you to track people who have had contacts, using this service.
 
+>**The project was completed in 2020 for the examination of Databases.**
